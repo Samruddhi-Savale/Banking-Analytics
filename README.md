@@ -291,5 +291,5 @@ https://www.linkedin.com/posts/samruddhi1_banking-analytics-mdd-excel-python-act
 
 If you find this project useful.
 <p align="center">
-  <strong>📊 Turning Data into Insights & Insights into Decisions 🚀</strong>
+  <strong>📊 Turning Data into Meaningful Insights & Insights into Decisions 🚀</strong>
 </p>
